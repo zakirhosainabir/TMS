@@ -1,8 +1,5 @@
 from django.db import models
-import transport.models
-
-from uap_tms.transport.models import Registration
-
+from transport.models import Registration   # ✅ fixed import
 
 class Payment(models.Model):
     registration = models.OneToOneField(
@@ -17,6 +14,3 @@ class Payment(models.Model):
 
     def __str__(self):
         return f"Payment for {self.registration.user.username} - {self.status}"
-from django.db import models
-
-# Create your models here.

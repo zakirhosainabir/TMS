@@ -1,8 +1,5 @@
 from django.db import models
-import transport.models
-
-from uap_tms.transport.models import Bus
-
+from transport.models import Bus   # ✅ fixed import
 
 class Location(models.Model):
     bus = models.OneToOneField(
@@ -16,6 +13,3 @@ class Location(models.Model):
 
     def __str__(self):
         return f"{self.bus.number} Location: ({self.lat}, {self.lng})"
-from django.db import models
-
-# Create your models here.
