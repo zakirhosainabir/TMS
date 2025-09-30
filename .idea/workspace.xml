@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a88c559-b03c-4c38-8e8f-efea5eef4f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TMS/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/.idea/TMS Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/TMS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/payments/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/tracking/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/tracking/templates/tracking/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/tracking/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/tracking/views_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/transport/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/transport/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/transport/views_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS/uap-tms" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMS/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMS/payments/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/TMS/payments/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMS/tracking/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/TMS/tracking/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMS/uap_tms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TMS/uap_tms/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TMS" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="33E3xTB6cvK9r3Xj4nqLTFjNqI2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Merging feature/bus-route"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c84de207d46e-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.28293.52" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a88c559-b03c-4c38-8e8f-efea5eef4f85" name="Changes" comment="" />
+      <created>1758868651488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758868651488</updated>
+    </task>
+    <servers />
+  </component>
+</project>
